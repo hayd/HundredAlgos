@@ -8,7 +8,7 @@ github_username:  hayd
 
 # Build settings
 markdown: kramdown
-permalink: HundredAlgos/:title
+permalink: :title
 
 gems:
   - jekyll-redirect-from
