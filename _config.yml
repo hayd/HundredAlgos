@@ -1,7 +1,7 @@
 # Site settings
 title: A Hundred Algorithms
 description: "Implementing 100 Algorithms in 100 days"
-baseurl: ""
+baseurl: "/HundredAlgos"
 url: "http://hayd.github.io/"
 twitter_username: andyhayden1
 github_username:  hayd
