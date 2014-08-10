@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "1 test"
+date:   2014-08-11 13:26:45
+categories: sort
+redirect_from: /1/
+---
+
+Hello!

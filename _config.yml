@@ -1,0 +1,14 @@
+# Site settings
+title: A Hundred Algorithms
+description: "Implementing 100 Algorithms in 100 days"
+baseurl: ""
+url: "http://hayd.github.io/HundredAlgos"
+twitter_username: andyhayden1
+github_username:  hayd
+
+# Build settings
+markdown: kramdown
+permalink: :title
+
+gems:
+  - jekyll-redirect-from

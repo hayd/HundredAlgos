@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "2 Another test"
+date:   2014-08-10 13:26:45
+categories: sort
+redirect_from: /2/
+---
+
+blop
